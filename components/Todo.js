@@ -30,7 +30,7 @@ const Todo = ({ todos, addTodo, removeTodo }) => {
 						id="input"
 					/>
 					<label className="mdl-textfield__label" htmlFor="input">
-						What must be done about our lands?!
+						OMFG What must be done about our lands?!
 					</label>
 				</div>
 			</form>

@@ -24,6 +24,8 @@ export default withRedux(initStore, {
 
 		render() {
 			const { Component, pageProps, store } = this.props
+			const blah = 'hey';
+			console.log('HOLY CRAP');
 			return (
 				<Container>
 					<Head>

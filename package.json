@@ -16,6 +16,7 @@
   },
   "scripts": {
     "dev": "node server",
+    "debug": "NODE_OPTIONS='--inspect' next dev",
     "build": "next build",
     "start": "NODE_ENV=production node server"
   },
