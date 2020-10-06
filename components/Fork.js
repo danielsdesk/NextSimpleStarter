@@ -8,7 +8,7 @@ const Fork = ({ stars }) => (
 		>
 			<a href="https://github.com/ooade/NextSimpleStarter">
 				<button className="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
-					Fork me
+					Fork meeeeeeee?
 				</button>
 			</a>
 		</div>
